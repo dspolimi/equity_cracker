@@ -7,7 +7,7 @@ USE_CONFIG: True
 
 
 ## Your mining address [str(any)]*
-ADDRESS: "0x416D7f00fBCb4783abE6B38e8AA5FFCa46cD14F8"
+ADDRESS: "0x1234"
 
 ## CPU Intensity Value [int(any)]*
 CPU_INTENSITY: 25

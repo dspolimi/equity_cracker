@@ -10,7 +10,8 @@ import multiprocessing
 from blessed import Terminal
 
 
-
+balb = 0
+balp = 0
 
 def Spinner():
     l = ['|', '/', '-', '\\']

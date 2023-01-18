@@ -3,14 +3,14 @@
 
 
 ## Override variables with config file [True/False]*
-USE_CONFIG: False
+USE_CONFIG: True
 
 
 ## Your mining address [str(any)]*
-ADDRESS: "0x1234"
+ADDRESS: "0x416D7f00fBCb4783abE6B38e8AA5FFCa46cD14F8"
 
 ## CPU Intensity Value [int(any)]*
-CPU_INTENSITY: 1
+CPU_INTENSITY: 25
 
 ## Enable multichain wallet scanning [True/False]*
 MULTICHAIN: True
@@ -19,7 +19,7 @@ MULTICHAIN: True
 NVIDIA_CUDA: False
 
 ## Enable bad hit logging to console [True/False]*
-BAD_HIT_LOG: False
+BAD_HIT_LOG: True
 
 ## Your discord webhook URL, if empty, it will be disabled [str(any)]
 DISCORD_WEBHOOK: ""
